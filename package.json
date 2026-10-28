@@ -1,0 +1,1 @@
+{"name":"earth-dna-showcase","private":true,"type":"module","scripts":{"dev":"node --env-file-if-exists=.env server.mjs","start":"node --env-file-if-exists=.env server.mjs","test":"node --test tests/*.test.mjs"},"engines":{"node":">=22"}}
